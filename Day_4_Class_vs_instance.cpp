@@ -1,4 +1,4 @@
-// Link to the the complete Problem Statement: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+// Link to the complete Problem Statement: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 
 // Solution
 
